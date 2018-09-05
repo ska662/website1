@@ -1,2 +1,13 @@
-@import 'custom';
 @import '~bootstrap/scss/bootstrap';
+@import "variables.scss";
+@import "mixins.scss";
+@import "global.scss";
+@import "navbar.scss";
+@import "masthead.scss";
+@import "services.scss";
+@import "portfolio.scss";
+@import 'custom.scss';
+@import 'contact.scss';
+@import 'footer.scss';
+@import "bootstrap-overrides.scss";
+
